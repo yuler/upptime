@@ -4,6 +4,8 @@ repo: upptime
 sites:
   - name: yidaixinxi
     url: https://ai.yidaixinxi.com/health
+  - name: apibeer
+    url: https://demo.apibeer.com/health
 
 assignees:
   - yuler
