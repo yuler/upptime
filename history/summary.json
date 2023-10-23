@@ -25,19 +25,19 @@
     "url": "https://mini-gpt.ganfans.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/mini-gpt.ganfans.com.ico",
     "slug": "mini-gpt-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5589,
-    "timeDay": 6318,
-    "timeWeek": 5589,
-    "timeMonth": 5589,
-    "timeYear": 5589,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 5525,
+    "timeDay": 5982,
+    "timeWeek": 5525,
+    "timeMonth": 5525,
+    "timeYear": 5525,
     "dailyMinutesDown": {
-      "2023-10-23": 0
+      "2023-10-23": 8
     }
   },
   {
