@@ -1,7 +1,7 @@
 url: https://demo.apibeer.com/health
-status: up
-code: 200
-responseTime: 1049
-lastUpdated: 2023-10-30T23:05:19.556Z
+status: down
+code: 502
+responseTime: 991
+lastUpdated: 2023-10-31T03:49:53.826Z
 startTime: 2023-10-16T09:45:55.709Z
 generator: Upptime <https://github.com/upptime/upptime>
