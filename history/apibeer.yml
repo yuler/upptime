@@ -1,7 +1,7 @@
 url: https://apibeer.com/health
-status: down
-code: 404
-responseTime: 594
-lastUpdated: 2023-11-12T09:25:14.051Z
+status: up
+code: 200
+responseTime: 916
+lastUpdated: 2023-11-12T09:31:07.894Z
 startTime: 2023-11-10T09:31:31.672Z
 generator: Upptime <https://github.com/upptime/upptime>
