@@ -6,7 +6,7 @@
     "slug": "yidaixinxi-ai",
     "status": "up",
     "uptime": "98.47%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.81%",
     "uptimeYear": "98.47%",
@@ -16,6 +16,7 @@
     "timeMonth": 1285,
     "timeYear": 1318,
     "dailyMinutesDown": {
+      "2023-12-15": 0,
       "2023-12-05": 118,
       "2023-12-01": 498,
       "2023-11-30": 71,
