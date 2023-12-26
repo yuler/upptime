@@ -2,8 +2,6 @@ owner: yuler
 repo: upptime
 
 sites:
-  - name: yidaixinxi-ai
-    url: https://ai.yidaixinxi.com/health
   - name: mini-gpt-api
     url: https://mini-gpt.ganfans.com/health
   - name: apibeer
