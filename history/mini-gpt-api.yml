@@ -1,7 +1,7 @@
 url: https://mini-gpt.ganfans.com/health
-status: up
-code: 200
-responseTime: 3860
-lastUpdated: 2024-01-11T14:06:38.626Z
+status: down
+code: 502
+responseTime: 2980
+lastUpdated: 2024-01-11T17:38:41.964Z
 startTime: 2023-10-16T09:45:54.504Z
 generator: Upptime <https://github.com/upptime/upptime>
