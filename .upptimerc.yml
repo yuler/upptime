@@ -2,10 +2,8 @@ owner: yuler
 repo: upptime
 
 sites:
-  - name: mini-gpt-api
-    url: https://mini-gpt.ganfans.com/health
-  - name: apibeer
-    url: https://apibeer.com/health
+  - name: reads
+    url: https://reads.yuler.cc/up
 
 assignees:
   - yuler
